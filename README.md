@@ -3,5 +3,5 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/mehdizebarjadan)
 
 
-* **[README.md](https://github.com/mehdizebarjadan/GitHub/wiki/README.md-markdown)**
+* **[README.md](https://github.com/mehdizebarjadan/GitHub/wiki/README.md)**
 
