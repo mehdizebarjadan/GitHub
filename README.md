@@ -4,5 +4,7 @@
 
 ![](images/Line.gif)
 
+* **[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)**
 * **[README.md](https://github.com/mehdizebarjadan/GitHub/wiki/README.md)**
+
 
