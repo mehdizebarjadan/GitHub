@@ -1,8 +1,6 @@
-[![](images/Line.gif)](https://github.com/mehdizebarjadan/GitHub/wiki)
-# GitHub  [![license](https://img.shields.io/badge/rating-4.8-orange.svg?maxAge=2592000)](https://github.com/mehdizebarjadan) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/mehdizebarjadan) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mehdizebarjadan)
+## Git
+[![](https://github.com/mehdizebarjadan/GitHub/blob/master/images/Github-beer.png)](https://github.com/mehdizebarjadan/GitHub/wiki)
 
-![](images/GitHub.png)
+Version control allows us to keep track of the changes that have been made to our projects, to roll back to previous versions and current versions, to easily collaborate with our friends and coworkers, and to add new features to our projects without having to change its current status. Although Git is not the only version control system out there, we use it as it is one of the most popular methods.
 
-* **[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)**
-* **[Read more in Wiki...](https://github.com/mehdizebarjadan/GitHub/wiki)**
-
+**[Read more...](https://github.com/mehdizebarjadan/GitHub/wiki)**
